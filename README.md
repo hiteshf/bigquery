@@ -1,3 +1,4 @@
+Ref : All these SQLs are built upon Bigquery INFORMATION_SCHEMA.To learn more visit [Google Cloud](https://cloud.google.com/bigquery/docs/information-schema-jobs).
 # bigquery
 Contains SQLs I use regurlary to check bigquery job stats.
 
